@@ -412,6 +412,7 @@ export default function PlumbingWebsite() {
             <p className="text-gray-400 text-sm mb-4">Professional plumbing in Delhi NCR with 15+ years of experience. Trusted by 1000+ happy customers.</p>
           </div>
 
+
           <div data-aos="fade-up" data-aos-delay="100">
             <h4 className="font-bold mb-4">Contact Numbers</h4>
             <div className="space-y-2 text-gray-400 text-sm">
